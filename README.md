@@ -1,16 +1,3 @@
-# Cryptography-Algorithms
-Every cryptography algorithm ever made
-
-## 🛡️ The Cryptography Atlas: 
-Every Algorithm Ever MadeA comprehensive, chronological repository of cryptographic algorithms—from ancient pen-and-paper ciphers to modern post-quantum standards. This project serves as a technical encyclopedia, providing a deep dive into the history, mechanics, and security status of each method.
-
-## 📖 Table of Contents
-- IntroductionThe
-- Timeline
-- Security Status Legend
-- Project Structure
-- Contributing
-
 # 🛡️ The Cryptography Atlas
 
 A comprehensive, chronological repository of cryptographic algorithms—from ancient pen-and-paper ciphers to modern post-quantum standards. This project serves as a technical encyclopedia, providing a deep dive into the history, mechanics, and security status of each method.
